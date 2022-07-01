@@ -23,7 +23,7 @@
 <a href="https://fb.com/gagan chandan p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gagan chandan p" height="30" width="40" /></a>
 <a href="https://instagram.com/_spoidy_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gagan._.chandan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCaJmMr7T9p8EJTbGHqgbEXw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gagan chandan p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaganchandan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaganchandan2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gaganchandan2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaganchandan2003" height="30" width="40" /></a>
 <a href="https://discord.gg/#8951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8951" height="30" width="40" /></a>
 </p>
 
