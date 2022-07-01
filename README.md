@@ -1,9 +1,11 @@
 
-[![MasterHead](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47qt7musxllxc0b16m0ai4gpd3zeiu7qhfv0gydzmk&rid=giphy.gif&ct=g
-)]
-<h1 align="center" width="100% >Hi 👋, I'm Gagan Chandan P</h1>
+<h1 align="center">Hi 👋, I'm Gagan Chandan P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganchandan2003&label=Profile%20views&color=0e75b6&style=flat" alt="gaganchandan2003" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaganchandan2003" alt="gaganchandan2003" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/@jerry200319" target="blank"><img src="https://img.shields.io/twitter/follow/@jerry200319?logo=twitter&style=for-the-badge" alt="@jerry200319" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -16,6 +18,7 @@
 <p align="left">
 <a href="https://codepen.io/gaganchandan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gaganchandan2003" height="30" width="40" /></a>
 <a href="https://twitter.com/@jerry200319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jerry200319" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gagan-chandan-p🕷-3b4590231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan-chandan-p🕷-3b4590231/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/gaganchandan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gaganchandan2003" height="30" width="40" /></a>
 <a href="https://fb.com/gagan chandan p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gagan chandan p" height="30" width="40" /></a>
 <a href="https://instagram.com/gagan._.chandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gagan._.chandan" height="30" width="40" /></a>
@@ -32,6 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganchandan2003&show_icons=true&locale=en" alt="gaganchandan2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaganchandan2003&" alt="gaganchandan2003" /></p>
-
-From <https://rahuldkjain.github.io/gh-profile-readme-generator/> 
-![image](https://user-images.githubusercontent.com/101565932/171459374-a25538c9-7240-466f-8465-65afd21b5b1d.png)
