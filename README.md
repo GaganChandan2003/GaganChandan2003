@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at https://gaganchandan.netlify.app/)
+- 👨‍💻 All of my projects are available at https://gaganchandan.netlify.app/
 
 - 💬 Ask me about **react, redux, mongodb, express, nodejs html, css, javascript**
 
