@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **victor20sara20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-SI61ac5_Xo7jtTZqb6a6JYIFWv-6SL6/view](https://drive.google.com/file/d/1-SI61ac5_Xo7jtTZqb6a6JYIFWv-6SL6/view)
+- 📄 Know about my experiences https://drive.google.com/drive/folders/103EeMwjP9as5xGqHS9meYcjDAJozqwC_?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
