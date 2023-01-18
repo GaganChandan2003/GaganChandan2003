@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@jerry200319" target="blank"><img src="https://img.shields.io/twitter/follow/@jerry200319?logo=twitter&style=for-the-badge" alt="@jerry200319" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working at **lattech as full stack developer**
 
 - 👨‍💻 All of my projects are available at https://gaganchandan.netlify.app/
 
-- 💬 Ask me about **react, redux, mongodb, express, nodejs html, css, javascript**
+- 💬 Ask me about **react, redux, mongodb, express, nodejs, html, css, javascript, PostgreSQL, MUI, ChakraUI**
 
 - 📫 How to reach me **victor20sara20@gmail.com**
 
