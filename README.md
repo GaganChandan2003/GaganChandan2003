@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@jerry200319" target="blank"><img src="https://img.shields.io/twitter/follow/@jerry200319?logo=twitter&style=for-the-badge" alt="@jerry200319" /></a> </p>
 
-- 🌱 I’m currently working at **lattech as full stack developer**
+- 🌱 I’m currently working as **Full stack developer**
 
 - 👨‍💻 All of my projects are available at https://gaganchandan.netlify.app/
 
-- 💬 Ask me about **react, redux, mongodb, express, nodejs, html, css, javascript, PostgreSQL, MUI, ChakraUI**
+- 💬 Ask me about **react js, react native, redux, mongodb, express, nodejs, html, css, javascript, PostgreSQL, MUI, ChakraUI**
 
 - 📫 How to reach me **victor20sara20@gmail.com**
 
@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/gagan-chandan-p-3b4590231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan-chandan-p🕷-3b4590231" height="30" width="40" /></a>
 <a href="https://codesandbox.com/gaganchandan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gaganchandan2003" height="30" width="40" /></a>
 <a href="https://fb.com/gagan chandan p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gagan chandan p" height="30" width="40" /></a>
-<a href="https://instagram.com/_spoidy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_spoidy_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCaJmMr7T9p8EJTbGHqgbEXw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gagan chandan p" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gaganchandan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaganchandan2003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaganchandan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaganchandan2003" height="30" width="40" /></a>
